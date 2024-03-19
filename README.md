@@ -20,7 +20,7 @@ Repository Contents
 Documentation
 --------------
 
-* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_LTE_Stick_LARA_R6)** - Basic hookup guide for the SparkFun Thing Plus - ESP32-C6.
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_Thing_Plus_ESP32_C6)** - Basic hookup guide for the SparkFun Thing Plus - ESP32-C6.
 
 Product Versions
 ----------------
